@@ -5,5 +5,7 @@ public class master {
 		System.out.println(" github");
 		System.out.println(" test");
 	}
+	public void add (int a, int b){
+	}
 
 }
